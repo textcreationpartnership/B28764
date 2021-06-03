@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons humbly offered to the consideration of the honourable the Commons of England in Parliament assembled against a duty of tunnage on all ships and merchandize.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28764</idno><idno type="EEBO-CITATION">99885673</idno>
+  <idno type="VID">201594</idno>
+  <idno type="EEBO-PROQUEST">2240887163</idno>
+  
+            <idno type="STC">Wing R553A</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.6[42]</idno>
+            <idno type="STC">ESTC R224810</idno>
+            <idno type="PROQUEST">ocm99885673</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885673e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28764)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201594)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C25:3[43])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons humbly offered to the consideration of the honourable the Commons of England in Parliament assembled against a duty of tunnage on all ships and merchandize.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Tariff --  England --  Early works to 1800.</term>
+               <term type="topical_term">Shipping --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201594:1"/>
+            <head>REASONS Humbly offered to the Consideration of the Honourable the Commons of England in Parliament assembled Against a DUTY of <hi>Tunnage on all Ships and Merchandize.</hi>
+            </head>
+            <p>IT hath hitherto been the Care and Prudence of this Nation, to endeavour all they could to propagate, in<g ref="char:EOLhyphen"/>courage and increase the Trade thereof; and have expressed, by their great Zeal and Concern for Trade, so much Concern for it, as if it were the <hi>Ʋnum Necessarium</hi> of this Kingdom and People: To which purpose, have made many Laws for its Incouragement; as, <hi>The Act of Navigation,</hi> which was solely made for In<g ref="char:EOLhyphen"/>couragement of Shipping and Trade; and by a Clause in that Act did lay 5 <hi>s. per</hi> Tun on all French Shipping, for no other Reason, but that the French King had laid 50 <hi>Sols per</hi> Tun on all English Shipping.</p>
+            <p>In an Act made also in King <hi>Charles</hi> II.'s time, Intituled, <hi>An Act to prevent Frauds, and regulating Abuses in His Majesty's Customs,</hi> there Incouragement was given to all Persons to build good and defendable Ships, and they should be allowed, out of the Customs, one Tenth Part of the Customs of all the Goods Exported or Imported in such Ships; besides, in that Act there is another Clause that lays a Duty of one <hi>per Cent.</hi> on all Goods and Merchandize Exported and Imported, from any Port of this Kingdom, to any Port or Place in the <hi>Mediterranean-Sea,</hi> beyond the Port of <hi>Malaga,</hi> in any Vessel, less than 200 Tuns and 2 Decks.</p>
+            <p>It will be also of a very dangerous Consequence to lay any Duty upon all Shipping, being a means to provoke other Countries to do the like on the Shipping of this Nation. Who can be assured the <hi>Portuguees</hi> will not lay on a Duty of 2 <hi>l. per</hi> Tun, in regard it is the Shipping of this Nation, that stops their having the most part of the <hi>Ʋropean</hi>-Trade, at this time, to themselves? Nor who knows how the <hi>Dutch</hi> and the <hi>Hanse</hi>-Towns will relish it? Nor <hi>Sweedland</hi> and <hi>Denmark</hi> especially, who doth so much follow the Steps, and imitate the absolute Power of <hi>France,</hi> but that they may also use one French Practice more, and lay on a heavy Duty on English Shipping; which will be to the great Loss and Damage of this Kingdom, by becoming Tributaries to Foreign Nations?</p>
+            <p>The laying on a Duty on Shipping now, seems to be ill timed, for these Reasons. First, the very great weight of discouragement Trade at present labours under, and the multitude of Losses the Merchants daily sustain, and those not small ones, loudly testify. Secondly, that it may not answer the End of raising Mony designed by it, by reason that there is but very few Ships left in this Kingdom, not Two Thirds what there was before the War begun; which few this Duty, if Imposed, will make less, and put it out of a possibility of increasing their Number; from which ill Consequence, God defend us.</p>
+            <p>Amongst the many, and almost insupportable, dead Losses the Merchants sustain, may be ranked the vast Disap<g ref="char:EOLhyphen"/>pointments all Ships meet with in their Voyages, by long detention in Ports, waiting for Convoy, as the the <hi>Berba<g ref="char:EOLhyphen"/>does, Virginia</hi> and <hi>Maryland</hi> Fleets outward last Year, and long and tedious lying in Ports, of almost all Ships home<g ref="char:EOLhyphen"/>wards, causes the Voyage to be so extream long, that the very Seamens Wages and Provisions, carries all the Freight away; and to many Ships (reckoning 6 <hi>per Cent.</hi> Interest and 10 <hi>per Cent.</hi> Insurance, which is much less than is usually paid) there will not be enough left to pay a Duty of Tunnage.</p>
+            <p>The laying on this Duty will be Taxing one sort of Estate twice: All Shipping are esteemed a Personal Estate, and every Man is Taxed, and pays as such: All Merchandize pays a very considerable Duty already, and more than most can well bare, as <hi>Tobacco,</hi> &amp;c. and therefore it will be extream hard, absolutely to drown what is already sinking, and wants a most powerful Hand to rescue from utter Destruction.</p>
+            <p>Should this Duty be laid, in all probability other Nations would be as kind to us as we to them, and double it possible for ever, tho' we should ease our selves and them in Four Years. It is very well known and manifest to all the World, that the Shipping of the English Nation, before this War, were 20 Tun in all Foreign Ports for one Tun of Foreign Shipping in <hi>England,</hi> out of which great disproportion, a great advantage will arife to all Foreign Nations, which they will be very tenacious of.</p>
+            <p>It is to be considered, that the Shipping and Commerce of this Kingdom, is the very Life of it and Principle of Motion, which to wound in any Part, is very dangerous in all the Consequences of it. In a word, the Trade of this Kingdom is greatly discouraged, and so little regard to secure it, that the Merchants are ready enough, as the Case already stands, to cease their Trade, and secure something to maintain their Families; which a further Duty may constrain them to put in execution with speed, what they are now in doubt to do.</p>
+            <p>If Shipping should be discouraged, what would then become of all the Woollen Manufacture, and all other Things, the Product of this Nation? It is true, we might eat and consume it our selves, and be Poor when we have done.</p>
+            <p>It is nothing but Trade can make a Nation great, rich and powerful, feared Abroad and honoured at Home; it will, with God's Blessing, bring Happiness and Peace into the Nation, and Plenty, abundant Plenty, into our Streets and Houses.</p>
+         </div>
+      </body>
+      <back>
+         <div type="half_title">
+            <pb facs="tcp:201594:2"/>
+            <p>REASONS Againast a DUTY ON <hi>Ships and Merchandize.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
